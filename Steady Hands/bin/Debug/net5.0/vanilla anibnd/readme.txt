@@ -1,0 +1,1 @@
+This is the vanilla c0000_a00_hi.anibnd.dcx which now contains Blubber's anti-aimpunch animations. Works with all mods that do not have a c0000_a00_hi.anibnd.dcx in their chr folder.

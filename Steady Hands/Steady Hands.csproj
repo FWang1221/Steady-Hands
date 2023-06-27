@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>Steady_Hands</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="SoulsFormats">
+      <HintPath>..\SoulsFormats-er\SoulsFormats\bin\Debug\netstandard2.1\SoulsFormats.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
